@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hCKLv3JylPeoi-WXNe4o-3" value="Use Cases RoboRest" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="30" width="1440" height="1220" as="geometry" />
+          <mxGeometry x="-10" y="30" width="1200" height="890" as="geometry" />
         </mxCell>
         <mxCell id="hCKLv3JylPeoi-WXNe4o-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hCKLv3JylPeoi-WXNe4o-3" source="hCKLv3JylPeoi-WXNe4o-1" target="hCKLv3JylPeoi-WXNe4o-21">
           <mxGeometry relative="1" as="geometry" />
